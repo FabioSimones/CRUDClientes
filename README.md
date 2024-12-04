@@ -1,8 +1,12 @@
 Neste repositório será possivel encontrar o CRUD de um projeto Spring boot completo de web services REST, contendo assim as cinco operações básicas de um CRUD. Sendo estas:
  Busca paginada de recursos
+
  Busca de recurso por id
+
  Inserir novo recurso
+
  Atualizar recurso
+
  Deletar recurso
 
 O projeto foi realizado no ambiente de testes configurando e acessando o banco de dados H2, usando o Maven como gerenciador de dependências, e Java como linguagem.
