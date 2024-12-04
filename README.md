@@ -1,4 +1,5 @@
 Neste repositório será possivel encontrar o CRUD de um projeto Spring boot completo de web services REST, contendo assim as cinco operações básicas de um CRUD. Sendo estas:
+
  Busca paginada de recursos
 
  Busca de recurso por id
